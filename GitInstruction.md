@@ -87,3 +87,7 @@ git config --global user.email email@example.com
 # Система одновременных версий (CVS)
 
 # Apache Subversion (SVN)
+
+Изменения 
+новшества
+доработки
